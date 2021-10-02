@@ -1,0 +1,14 @@
+body{
+	padding-top: 20px;
+	text-align: center;
+}
+#profile{
+	height: auto;
+	width: auto;
+}
+ ul{
+	padding:0 
+}
+.display{
+	display: inline-block;
+}
